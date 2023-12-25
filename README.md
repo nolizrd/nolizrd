@@ -18,6 +18,14 @@
   <a href="#Computer Vision">Computer Vision</a> •
 </p>
 
+<h4 align="center">Навигация:</h4>
+
+<p align="center">
+  <a href="#qml">QML</a> •
+  <a href="#kotlin">Kotlin</a> •
+  <a href="#computer-vision">Computer Vision</a> •
+</p>
+
 ## QML
 
 |                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
@@ -34,12 +42,12 @@
 | New commands/values        |         ✔️         |        ❌        |
 | No old command leftovers   |         ✔️         |        ❌        |
 
-<a href="#top">В начало файла</a>
+<a href="#qml-top">В начало файла</a>
 
 ## Kotlin
 
-<a href="#top">В начало файла</a>
+<a href="#kotlin-top">В начало файла</a>
 
 ## Computer Vision
 
-<a href="#top">В начало файла</a>
+<a href="#computer-vision-top">В начало файла</a>
