@@ -24,14 +24,19 @@
 
 
 
-<p align="left"><strong>Задание GridLayout:</strong></p> Компоновщик столбца содержит пару компоновщиков строк и место под контент. Создать макет с помощью GridLayout.
+**Задание GridLayout:** Компоновщик столбца содержит пару компоновщиков строк и место под контент. Создать макет с помощью GridLayout.
 
 **Реализация:**
 [Код](https://github.com/nolizrd/Design/tree/86fc86fa1d2e568acd17f4e188e8252ad689930d/task%202%20layout)
 <p align="left"><strong>Демонстрация работы:</strong></p>
 <p align="center"><img src="https://github.com/nolizrd/Design/assets/26836740/165ef7ed-bf70-4176-b81c-b07bfa4a4c98.gif" alt="Demo" width="400" height="400"></p>
 
+**Задание Task for signal:** Написать код обработчика нажатия на кнопку в футере, по которому текст других кнопок становится прозрачнее, меняется текст в хедере и в теле окна.
 
+**Реализация:**
+[Код](https://clck.ru/37HDU3)
+<p align="left"><strong>Демонстрация работы:</strong></p>
+<p align="center"><img src="https://github.com/nolizrd/Design/assets/26836740/d0ab782b-2247-4053-93d7-88d23eed4de6.gif" alt="Demo" width="300" height="400"></p>
 
 <a href="#Навигация">В начало файла</a>
 
