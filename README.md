@@ -19,20 +19,8 @@
 </p>
 
 ## QML
+[Репозиторий с лаборными работами по QML](https://github.com/nolizrd/Design)
 
-|                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
-| -------------------------- | :-----------------: | :---------------: |
-| Optimized values           |         ✔️         |        〰️        |
-| Useful scripts             |         ✔️         |        〰️        |
-| Enabled in-game advantages |         ✔️         |        〰️        |
-| Documented commands        |         ✔️         |        ❌        |
-| No misconfigured commands  |         ✔️         |        ❌        |
-| Professional info sources  |         ✔️         |        ❌        |
-| Clean sheet/template       |         ✔️         |        ❌        |
-| Easy to customize          |         ✔️         |        ❌        |
-| Categorized by functions   |         ✔️         |        ❌        |
-| New commands/values        |         ✔️         |        ❌        |
-| No old command leftovers   |         ✔️         |        ❌        |
 
 <a href="#Навигация">В начало файла</a>
 
