@@ -19,8 +19,11 @@
 </p>
 
 ## QML
-[Репозиторий с лаборными работами по QML](https://github.com/nolizrd/Design)
+[Репозиторий со лаборными работами по QML](https://github.com/nolizrd/Design)
 
+<p align="left"><strong>Задание:</strong></p> Компоновщик столбца содержит пару компоновщиков строк и место под контент. Создать макет с помощью GridLayout.
+<p align="left"><strong>Демонстрация работы:</strong></p>
+<p align="center"><img src="https://github.com/nolizrd/Design/assets/26836740/165ef7ed-bf70-4176-b81c-b07bfa4a4c98.gif" alt="Demo" width="400" height="400"></p>
 
 <a href="#Навигация">В начало файла</a>
 
