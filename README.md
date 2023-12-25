@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-![Image alt](https://github.com/nolizrd/nolizrd/blob/main/img.png)
-
+![Image alt](https://github.com/nolizrd/nolizrd/raw/main/img.png)
 </h1>
 
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
