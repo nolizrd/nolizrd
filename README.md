@@ -1,10 +1,9 @@
 <h1 align="center">
 Hello, my name is Rita
 </h1>
+
 <h1 align="center">
-
-![Image alt](https://github.com/nolizrd/nolizrd/blob/main/images/img.png)
-
+  <img src="https://github.com/nolizrd/nolizrd/raw/main/images/img.png" alt="Image alt" width="20%">
 </h1>
 
 <h4 align="center">Навигация:</h4>
@@ -14,6 +13,7 @@ Hello, my name is Rita
   <a href="#Kotlin">Kotlin</a> •
   <a href="#Computer Vision">Computer Vision</a> •
 </p>
+
 ## QML
 
 |                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
@@ -34,4 +34,3 @@ Hello, my name is Rita
 
   
 ## Computer Vision
-
