@@ -38,6 +38,14 @@
 <p align="left"><strong>Демонстрация работы:</strong></p>
 <p align="center"><img src="https://github.com/nolizrd/Design/assets/26836740/d0ab782b-2247-4053-93d7-88d23eed4de6.gif" alt="Demo" width="300" height="400"></p>
 
+**Задание Messanger:** Описать на языке qml реализацию модели мессенджера с некоторым набором сообщений, возможностью добавлять сообщения.
+
+**Реализация:**
+[Код](https://github.com/nolizrd/-------------------.git)
+<p align="left"><strong>Демонстрация работы:</strong></p>
+<p align="center"><img src="https://github.com/nolizrd/nolizrd/assets/26836740/2ee42ee5-f888-4c6e-b852-0f4ea10a6809.gif" alt="Demo" width="250" height="400"></p>
+
+
 <a href="#Навигация">В начало файла</a>
 
 ## Kotlin
