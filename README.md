@@ -8,15 +8,18 @@
 </h1>
 <h3 align="center">Я студентка ИГУ по направлению "Прикладная информатика в дизайне", рада представить некоторые из моих работ, пройденные за семестр.</h3>
 
-<h3 align="center">Connect with me: <a href="https://t.me/plehpls" alt="parkostiinz">Telegram</a></h3>
+<h3 align="center">✍️Contact with me: <a href="https://t.me/plehpls" alt="parkostiinz">Telegram</a></h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h3 align="center">⚡ Stats ⚡</h3> 
+<h1 align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolizrd&hide=javascript,css,scss,html,qmake,c&theme=tokyonight" />
+</h1>
 
-## Навигация:
+## <p align="center">Навигация🔎</p>
 
 <p align="center">
   <a href="#qml">QML</a> •
@@ -24,7 +27,7 @@
   <a href="#computer-vision">Computer Vision</a> •
 </p>
 
-## QML
+## 🟩QML🟩
 
 <h3 align="center">GridLayout</h3>
 
