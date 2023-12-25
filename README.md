@@ -10,15 +10,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-<h4 align="center">Навигация:</h4>
-
-<p align="center">
-  <a href="#QML">QML</a> •
-  <a href="#Kotlin">Kotlin</a> •
-  <a href="#Computer Vision">Computer Vision</a> •
-</p>
-
-<h4 align="center">Навигация:</h4>
+## Навигация:
 
 <p align="center">
   <a href="#qml">QML</a> •
@@ -42,12 +34,12 @@
 | New commands/values        |         ✔️         |        ❌        |
 | No old command leftovers   |         ✔️         |        ❌        |
 
-<a href="#qml-top">В начало файла</a>
+<a href="#Навигация">В начало файла</a>
 
 ## Kotlin
 
-<a href="#kotlin-top">В начало файла</a>
+<a href="#Навигация">В начало файла</a>
 
 ## Computer Vision
 
-<a href="#computer-vision-top">В начало файла</a>
+<a href="#Навигация">В начало файла</a>
