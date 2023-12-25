@@ -31,7 +31,7 @@
   <a href="#computer-vision">Computer Vision</a> •
 </p>
 
-## 🟩QML🟩
+## <p align="center">🟩QML🟩</p>
 
 <h3 align="center">☘️GridLayout☘️</h3>
 
@@ -93,7 +93,7 @@
 <a href="#Навигация">**🆙К навигации🆙**</a>
 
 
-## 🔶Kotlin🔶
+## <p align="center">🔶Kotlin🔶</p>
 
 <h3 align="center">📙Игра ColorTiles📙</h3>
 
@@ -118,7 +118,7 @@
 
 <a href="#Навигация">**🆙К навигации🆙**</a>
 
-## 🧿Computer Vision🧿
+## <p align="center">🧿Computer Vision🧿</p>
 
 <h3 align="center">💎Карандаши💎</h3>
 
