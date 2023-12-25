@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-![Image alt](https://github.com/nolizrd/nolizrd/raw/main/images/img.png)
+![Image alt](https://github.com/nolizrd/nolizrd/blob/main/img.png)
 
 </h1>
 
