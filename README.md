@@ -89,7 +89,7 @@
 <a href="#Навигация">**К навигации**</a>
 
 
-## Kotlin
+## 🔶Kotlin🔶
 
 <h3 align="center">Игра ColorTiles</h3>
 
@@ -114,7 +114,7 @@
 
 <a href="#Навигация">**К навигации**</a>
 
-## Computer Vision
+## 🧿Computer Vision🧿
 
 <h3 align="center">Карандаши</h3>
 
