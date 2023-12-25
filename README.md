@@ -65,7 +65,8 @@
 
 
 
-<a href="#Навигация">К навигации</a>
+<a href="#Навигация">**К навигации**</a>
+
 
 ## Kotlin
 
@@ -86,7 +87,7 @@
 
 
 
-<a href="#Навигация">К навигации</a>
+<a href="#Навигация">**К навигации**</a>
 
 ## Computer Vision
 
@@ -118,4 +119,4 @@
  <img src="https://github.com/nolizrd/nolizrd/raw/main/images/1.png" alt="Image alt" width="30%">
  <img src="https://github.com/nolizrd/nolizrd/raw/main/images/2.png" alt="Image alt" width="30%">
 
-<a href="#Навигация">К навигации</a>
+<a href="#Навигация">**К навигации**</a>
