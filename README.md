@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://github.com/nolizrd/nolizrd/raw/main/images/img.png" alt="Image alt" width="20%">
 </h1>
-<h3 align="center">Я студентка ИГУ по направлению "Прикладная информатика в дизайне", рада представить некоторые из моих работ, пройденные за один семестр.</h3>
+<h3 align="center">Я студентка ИГУ по направлению "Прикладная информатика в дизайне", рада представить некоторые из моих работ, пройденные за семестр.</h3>
 
 <h3 align="center">Connect with me: <a href="https://t.me/plehpls" alt="parkostiinz">Telegram</a></h3>
 
