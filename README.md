@@ -45,6 +45,13 @@
 <p align="left"><strong>Демонстрация работы:</strong></p>
 <p align="center"><img src="https://github.com/nolizrd/nolizrd/assets/26836740/2ee42ee5-f888-4c6e-b852-0f4ea10a6809.gif" alt="Demo" width="250" height="400"></p>
 
+**Задание Светофор:** Добавить в переходы состояний анимацию свойства на смену цвета длиной в 1/2 сек.
+
+**Реализация:**
+[Код](https://goo.su/Cs4FUJ)
+<p align="left"><strong>Демонстрация работы:</strong></p>
+<p align="center"><img src="https://github.com/nolizrd/nolizrd/assets/26836740/f4b969a1-b483-4010-9ce1-30314c8bf852.gif" alt="Demo" width="250" height="400"></p>
+
 
 <a href="#Навигация">В начало файла</a>
 
