@@ -76,6 +76,16 @@
 <p align="left"><strong>Демонстрация работы:</strong></p>
 <p align="center"><img src="https://github.com/nolizrd/nolizrd/assets/26836740/1824d983-7212-42be-a8b8-8aecf3d9007b.gif" alt="Demo" width="150" height="300"></p>
 
+**Игра ColorTiles:** На столе расположено N пар карт "рубашками" вверх. Открывая не более чем 2 карты одновременно нужно угадать, где лежат парные (одинаковые) карты. При нажатии на карту рубашка должна меняться на лицевую сторону и обратно. 
+
+**Реализация:**
+[Код](https://github.com/nolizrd/Memory.git)
+<p align="left"><strong>Демонстрация работы:</strong></p>
+<p align="center"><img src="https://github.com/nolizrd/nolizrd/assets/26836740/673911fe-f05d-4f43-88be-39dcef47adc0.gif" alt="Demo" width="150" height="300"></p>
+
+
+
+
 <a href="#Навигация">К навигации</a>
 
 ## Computer Vision
