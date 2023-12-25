@@ -16,7 +16,10 @@
 
 <h3 align="center">⚡ Stats ⚡</h3> 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolizrd&hide=javascript,css,scss,html,qmake,c&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolizrd&hide=javascript,css,scss,html,qmake,c&theme=tokyonight" />
+</div>
+
 
 
 ## <p align="center">Навигация🔎</p>
