@@ -108,22 +108,14 @@
 
  <img src="https://github.com/nolizrd/nolizrd/raw/main/images/Figure_1.png" alt="Image alt" width="30%">
 
- **Задание :** Для заданных изображений определить траекторию движения каждого объекта и вывести на экран на одном графике в виде линейных графиков.
+ **Задание Цветные шарики:** Компьютер загадывает последовательность из 3(4) цветов. Необходимо сделать так, чтобы если пользователь показывает верную последовательность в камеру на экран было выведено слово "отгадал". 1. Последовательность шаров (три шара по горизонтали) 2. Последовательность шаров (четыре шара 2 на 2)
 
 **Реализация:**
-[Код](https://github.com/nolizrd/Trajectory.git)
+[Код](https://clck.ru/37HJBk)
 
 **Демонстрация работы**
 
- <img src="https://github.com/nolizrd/nolizrd/raw/main/images/Figure_1.png" alt="Image alt" width="30%">
-
- **Задание Траектория движения:** Для заданных изображений определить траекторию движения каждого объекта и вывести на экран на одном графике в виде линейных графиков.
-
-**Реализация:**
-[Код](https://github.com/nolizrd/Trajectory.git)
-
-**Демонстрация работы**
-
- <img src="https://github.com/nolizrd/nolizrd/raw/main/images/Figure_1.png" alt="Image alt" width="30%">
+ <img src="https://github.com/nolizrd/nolizrd/raw/main/images/1.png" alt="Image alt" width="30%">
+ <img src="https://github.com/nolizrd/nolizrd/raw/main/images/2.png" alt="Image alt" width="30%">
 
 <a href="#Навигация">К навигации</a>
